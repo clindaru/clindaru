@@ -2,8 +2,7 @@
 Student at University of Michigan 
 
 📫 How to reach me: clindaru@umich.edu
-
-📍 Connecticut 🍰 Food 🎣 Fishing 
+ 
 <!--
 **clindaru/clindaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
